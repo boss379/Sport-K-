@@ -7,6 +7,6 @@ https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv17" group-title="Trump" tvg-logo="https://i.imgur.com/Ghjy4HY.png", SCTV17
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://firebaselogging-pa.googleapis.com/v1/firelog/legacy/log?key=AIzaSyCx80ru6-RXeTi3GvqkFsMVyMf-vpgIoVw
+#KODIPROP:inputstream.adaptive.license_key={"keys":[ { "kty":"oct", "k":"oYobR16sgV2PoZd4QIpUCg", "kid":"pN4tkf9PPEmP+QzOMkfG1A" } ], "type":"temporary"}
 https://s4.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e10.endpoint.cdn.sctvonline.vn/nginx.s4.edge.cdn.sctvonline.vn/sctv17/master.mpd
 
