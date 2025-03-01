@@ -17,4 +17,4 @@ http://e5.endpoint.cdn.sctvonline.vn/hls/sctv22/index.m3u8
 #EXTINF:-1 tvg-id="sctv22hd" group-title="VTV DỰ PHÒNG 2" group-title="SCTV" tvg-logo="https://i.imgur.com/O0HdUpB.png", SCTV22 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://e5.endpoint.cdn.sctvonline.vn/hls/sctv22/01.m3u8?khichtv
+http://e5.endpoint.cdn.sctvonline.vn/hls/sctv22/index.m3u8?khichtv
