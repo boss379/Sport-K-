@@ -19,10 +19,10 @@ https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8
 
-#EXTM3U
-#EXTINF:-1 tvg-id="sctv22" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/SCTVPTH.jpg", SCTV22
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/SCTVPTH.jpg", Happy KID
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=AIzaSyCx80ru6-RXeTi3GvqkFsMVyMf-vpgIoVw
-https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e10.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/sctv22/master.mpd
+https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v/e10.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/sctv22/master.mpd
+
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/SCTVPTH.jpg", K+
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://s4.edge.cdn.sctvonline.vn/cdn-cgi/edge/v1/e10.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn//v1/sctvonline/1/kplus_action/index.m3u8
