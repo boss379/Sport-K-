@@ -1,57 +1,20 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="sctv7" group-title="VTV DỰ PHÒNG 2" group-title="SCTV" tvg-logo="https://i.imgur.com/EdjXUUb.png", SCTV7
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTM3U 
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/SCTVPTH.jpg", SCTV HD Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/sctv7/01.m3u8
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/sctv3/01.m3u8
 
-#EXTM3U
-
-#EXTINF:-1 tvg-id="vtv1" group-title="VTV DỰ PHÒNG 2" tvg-logo="https://i.imgur.com/nfkmvAY.png", VTV1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/SCTVPTH.jpg", Cinemax HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/vtv1/01.m3u8
+https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/cinemax/01.m3u8
 
-#EXTINF:-1 tvg-id="vtv2" group-title="VTV DỰ PHÒNG 2" tvg-logo="https://i.imgur.com/BVwi3K3.png", VTV2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/SCTVPTH.jpg", Sctv22
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/hls/vtv2/index.m3u8
+https://s2.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s2.edge.cdn.sctvonline.vn/sctv22/01.m3u8
 
-#EXTINF:-1 tvg-id="vtv3" group-title="VTV DỰ PHÒNG 2" tvg-logo="https://i.imgur.com/7rLCvgS.png", VTV3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/SCTVPTH.jpg", Happy KID
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/vtv3/01.m3u8
+https://s3.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e4.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/hls/happykid/01.m3u8
 
-#EXTINF:-1 tvg-id="vtv5" group-title="VTV DỰ PHÒNG 2" tvg-logo="https://i.imgur.com/7qPKNFU.png", VTV5
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/SCTVPTH.jpg", VTVCab 19
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s4.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s4.edge.cdn.sctvonline.vn/hls/vtv5/01.m3u8
-
-#EXTINF:-1 tvg-id="vtv5tnb" group-title="VTV DỰ PHÒNG 2" tvg-logo="https://i.imgur.com/mIUWkDx.png", VTV5TNB
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/vtv5_tnb/01.m3u8
-
-#EXTINF:-1 tvg-id="vtv6ct" group-title="VTV DỰ PHÒNG 2" tvg-logo="https://i.imgur.com/HCpqatZ.png", VTV6 Cần Thơ
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/vtv6/01.m3u8
-
-#EXTINF:-1 tvg-id="vtv7" group-title="VTV DỰ PHÒNG 2" tvg-logo="https://i.imgur.com/AgamSNe.png", VTV7
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/vtv7/01.m3u8
-
-#EXTINF:-1 tvg-id="vtv9" group-title="VTV DỰ PHÒNG 2" tvg-logo="https://i.imgur.com/Ex1VkGQ.png", VTV9
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/vtv9/01.m3u8
-
-#EXTINF:-1 tvg-id="antv" group-title="VTV DỰ PHÒNG 2" tvg-logo="https://i.imgur.com/eGkFbAh.png", ANTV
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/antv/index.m3u8
-
-#EXTINF:-1 tvg-id="quocphongvn" group-title="VTV DỰ PHÒNG 2" tvg-logo="https://i.imgur.com/UIGZw0y.png", Quốc Phòng Việt Nam
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s4.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s4.edge.cdn.sctvonline.vn/hls/quocphongvn/index.m3u8
-
+https://s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8
