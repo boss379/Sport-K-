@@ -20,10 +20,10 @@ http://vuikhoetv.online:80/live/quangtrung379/trung1987/7147.ts
 #EXTINF:-1 tvg-id="ksport2hd" tvg-name="K+ Sport 2 | LINKPRO" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/Kplus_Sport_2_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042539&path-prefix=vi" group-title="K+ Channels",K+ Sport 2 | Faster T7 CN
 http://vuikhoetv.online:80/live/quangtrung379/trung1987/7148.ts
 
-#EXTINF:-1 xui-id="7206" tvg-id="sctv17hd" tvg-name="SCTV17" tvg-logo="https://i.imgur.com/Ghjy4HY.png" group-title=" SCTV ⚽️",SCTV17
-https://vuikhoetv.online:443/play/6zRlN5hJb7q-3iB5E_tz13Ag93sB80UBl2dtEWFN6MW_IDL3bA9Px2SUSUwQ3UW9/ts
 #EXTINF:-1 xui-id="7204" tvg-id="sctv15hd" tvg-name="SCTV15" tvg-logo="https://i.imgur.com/EPwjrlB.png" group-title=" SCTV ⚽️",SCTV15
 https://vuikhoetv.online:443/play/6zRlN5hJb7q-3iB5E_tz13Ag93sB80UBl2dtEWFN6MUXb36M1ohjuapmR8x3GTjB/ts
+#EXTINF:-1 xui-id="7206" tvg-id="sctv17hd" tvg-name="SCTV17" tvg-logo="https://i.imgur.com/Ghjy4HY.png" group-title=" SCTV ⚽️",SCTV17
+https://vuikhoetv.online:443/play/6zRlN5hJb7q-3iB5E_tz13Ag93sB80UBl2dtEWFN6MW_IDL3bA9Px2SUSUwQ3UW9/ts
 #EXTINF:-1 xui-id="7211" tvg-id="sctv22hd" tvg-name="SCTV22" tvg-logo="https://i.imgur.com/O0HdUpB.png" group-title=" SCTV ⚽️",SCTV22
 https://vuikhoetv.online:443/play/6zRlN5hJb7q-3iB5E_tz16fReEBZbAoOeOIgNuKYmEmAUhKv3CnyHR8vPLd58ITN/ts
 
@@ -35,9 +35,10 @@ http://vuikhoetv.online:80/live/quangtrung379/trung1987/4754.ts
 http://vuikhoetv.online:80/live/quangtrung379/trung1987/4753.ts
 #EXTINF:-1 tvg-id="onsports" tvg-name="ON Sport HD | ClipTV" tvg-logo="https://vuikhoetv.online:443/images/bb347b7b11e0ad456ec4bd3f96c10750.jpg" group-title="Sport + Channel",ON Sport HD | ClipTV
 http://vuikhoetv.online:80/live/quangtrung379/trung1987/4752.ts
+EXTINF:-1 tvg-id="sctv15hd" tvg-name="SCTV15" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/SCTV15_SSport_2.png/revision/latest?cb=20230802033038&path-prefix=vi" group-title="Sport + Channel",SCTV15
+http://vuikhoetv.online:80/live/quangtrung379/trung1987/7204.ts
 #EXTINF:-1 tvg-id="sctv17hd" tvg-name="SCTV17" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7a/SCTV17_SSport.png/revision/latest?cb=20240131092112&path-prefix=vi" group-title="Sport + Channel",SCTV17
 http://vuikhoetv.online:80/live/quangtrung379/trung1987/7206.ts
 #EXTINF:-1 tvg-id="sctv22hd" tvg-name="SCTV22" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/db/SCTV22_SSport_1.png/revision/latest?cb=20230802033043&path-prefix=vi" group-title="Sport + Channel",SCTV22
 http://vuikhoetv.online:80/live/quangtrung379/trung1987/7211.ts
-#EXTINF:-1 tvg-id="sctv15hd" tvg-name="SCTV15" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/SCTV15_SSport_2.png/revision/latest?cb=20230802033038&path-prefix=vi" group-title="Sport + Channel",SCTV15
-http://vuikhoetv.online:80/live/quangtrung379/trung1987/7204.ts
+
