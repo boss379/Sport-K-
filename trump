@@ -35,7 +35,7 @@ http://vuikhoetv.online:80/live/quangtrung379/trung1987/4754.ts
 http://vuikhoetv.online:80/live/quangtrung379/trung1987/4753.ts
 #EXTINF:-1 tvg-id="onsports" tvg-name="ON Sport HD | ClipTV" tvg-logo="https://vuikhoetv.online:443/images/bb347b7b11e0ad456ec4bd3f96c10750.jpg" group-title="Sport + Channel",ON Sport HD | ClipTV
 http://vuikhoetv.online:80/live/quangtrung379/trung1987/4752.ts
-EXTINF:-1 tvg-id="sctv15hd" tvg-name="SCTV15" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/SCTV15_SSport_2.png/revision/latest?cb=20230802033038&path-prefix=vi" group-title="Sport + Channel",SCTV15
+#EXTINF:-1 tvg-id="sctv15hd" tvg-name="SCTV15" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c8/SCTV15_SSport_2.png/revision/latest?cb=20230802033038&path-prefix=vi" group-title="Sport + Channel",SCTV15
 http://vuikhoetv.online:80/live/quangtrung379/trung1987/7204.ts
 #EXTINF:-1 tvg-id="sctv17hd" tvg-name="SCTV17" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7a/SCTV17_SSport.png/revision/latest?cb=20240131092112&path-prefix=vi" group-title="Sport + Channel",SCTV17
 http://vuikhoetv.online:80/live/quangtrung379/trung1987/7206.ts
