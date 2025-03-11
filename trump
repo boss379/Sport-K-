@@ -22,7 +22,7 @@ http://vuikhoetv.online:80/live/quangtrung379/trung1987/7148.ts
 
 #EXTM3U
 #EXTINF:-1,Channel 5247
-https://vuikhoetv.online:443/play/5247/stream.m3u
+https://vuikhoetv.online:443/live/5247/playlist.m3u
 
 
 #EXTINF:-1 xui-id="7204" tvg-id="sctv15hd" tvg-name="SCTV15" tvg-logo="https://i.imgur.com/EPwjrlB.png" group-title=" SCTV ⚽️",SCTV15
