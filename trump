@@ -20,6 +20,11 @@ http://vuikhoetv.online:80/live/quangtrung379/trung1987/7147.ts
 #EXTINF:-1 tvg-id="ksport2hd" tvg-name="K+ Sport 2 | LINKPRO" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/Kplus_Sport_2_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042539&path-prefix=vi" group-title="K+ Channels",K+ Sport 2 | Faster T7 CN
 http://vuikhoetv.online:80/live/quangtrung379/trung1987/7148.ts
 
+#EXTM3U
+#EXTINF:-1,Channel 5247
+https://vuikhoetv.online:443/play/5247/stream.m3u
+
+
 #EXTINF:-1 xui-id="7204" tvg-id="sctv15hd" tvg-name="SCTV15" tvg-logo="https://i.imgur.com/EPwjrlB.png" group-title=" SCTV ⚽️",SCTV15
 https://vuikhoetv.online:443/play/6zRlN5hJb7q-3iB5E_tz13Ag93sB80UBl2dtEWFN6MUXb36M1ohjuapmR8x3GTjB/ts
 #EXTINF:-1 xui-id="7206" tvg-id="sctv17hd" tvg-name="SCTV17" tvg-logo="https://i.imgur.com/Ghjy4HY.png" group-title=" SCTV ⚽️",SCTV17
