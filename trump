@@ -20,11 +20,6 @@ http://vuikhoetv.online:80/live/beo123/tr1234/7147.ts
 #EXTINF:-1 tvg-id="ksport2hd" tvg-name="K+ Sport 2 | LINKPRO" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/Kplus_Sport_2_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042539&path-prefix=vi" group-title="K+ Channels",K+ Sport 2 | Faster T7 CN
 http://vuikhoetv.online:80/live/beo123/tr1234/7148.ts
 
-#EXTM3U
-#EXTINF:-1,Channel 5247
-https://vuikhoetv.online:443/live/5247/playlist.m3u
-
-
 #EXTINF:-1 xui-id="7204" tvg-id="sctv15hd" tvg-name="SCTV15" tvg-logo="https://i.imgur.com/EPwjrlB.png" group-title=" SCTV ⚽️",SCTV15
 http://vuikhoetv.online:80/live/beo123/tr1234/7204.ts
 #EXTINF:-1 xui-id="7206" tvg-id="sctv17hd" tvg-name="SCTV17" tvg-logo="https://i.imgur.com/Ghjy4HY.png" group-title=" SCTV ⚽️",SCTV17
@@ -47,3 +42,18 @@ http://vuikhoetv.online:80/live/beo123/tr1234/7206.ts
 #EXTINF:-1 tvg-id="sctv22hd" tvg-name="SCTV22" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/db/SCTV22_SSport_1.png/revision/latest?cb=20230802033043&path-prefix=vi" group-title="Sport + Channel",SCTV22
 http://vuikhoetv.online:80/live/beo123/tr1234/7211.ts
 
+#EXTINF:0 group-title="Canal +", K+ Sports 1
+#EXTVLCOPT:network-caching=1000
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:FB:4F:F7&stream=526130&extension=ts
+#EXTINF:0 group-title="Canal +", K+ Sports 2
+#EXTVLCOPT:network-caching=1000
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:FB:4F:F7&stream=526135&extension=ts
+#EXTINF:0 group-title="Canal +", K+ Cine
+#EXTVLCOPT:network-caching=1000
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:FB:4F:F7&stream=526134&extension=ts
+#EXTINF:0 group-title="Canal +", K+ Kids
+#EXTVLCOPT:network-caching=1000
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:FB:4F:F7&stream=526132&extension=ts
+#EXTINF:0 group-title="Canal +", K+ Action
+#EXTVLCOPT:network-caching=1000
+http://troublesupport.my.to:80/play/live.php?mac=00:1A:79:FB:4F:F7&stream=526131&extension=ts
