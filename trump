@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
 #EXTINF:-1 tvg-id="ksport1hd" tvg-name="K+ Sport 1 | LINKPRO" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/99/Kplus_Sport_1_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042538&path-prefix=vi" group-title="Vua Thể thao",K+ Sport 1 | Pro main
 http://vuikhoetv.online:80/live/beo123/tr1234/5247.ts
 #EXTINF:-1 tvg-id="ksport2hd" tvg-name="K+ Sport 2" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/Kplus_Sport_2_logo_2024.png/revision/latest/scale-to-width-down/200?cb=20240330042539&path-prefix=vi" group-title="Vua Thể thao",K+ Sport 2 | Pro main
